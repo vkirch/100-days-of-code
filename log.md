@@ -27,3 +27,11 @@
 **Today's Progress**: Almost done the applied visualization section of FreeCodeCamp Basic Web Development certification. Wasn't able to get up early enough to code in the morning, maybe tomorrow.
 
 **Thoughts:**  Going to have to figure out how to code in the mornings rather than at night. This isn't working for me. 
+
+### Day 5: August 28, 2018 
+
+
+**Today's Progress**: Completed up to a quarter of the Applied Accessibility portion of freeCodeCamp web development certification. 
+
+
+**Thoughts:** Still happy.
