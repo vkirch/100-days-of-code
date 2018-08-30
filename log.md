@@ -35,3 +35,11 @@
 
 
 **Thoughts:** Still happy.
+
+### Day 6: August 29, 2018 
+
+
+**Today's Progress**: Almost done the Applied Accessibility portion of freeCodeCamp's Basic Web Development program.  
+
+
+**Thoughts:** My focus was not there today, kind of a struggle.
