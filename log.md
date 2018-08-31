@@ -43,3 +43,12 @@
 
 
 **Thoughts:** My focus was not there today, kind of a struggle.
+
+### Day 7: August 30, 2018 
+
+
+**Today's Progress**: Starting the CSS Grid section of freeCodeCamp's basic web certification.
+
+
+**Thoughts:**  Getting excited to start on my first project!
+
