@@ -52,3 +52,10 @@
 
 **Thoughts:**  Getting excited to start on my first project!
 
+### Day 8: September 1, 2018 
+
+
+**Today's Progress**: Unfortunately I missed yesterday's session but on a brighter note I'm starting on my first project of building a tribute page.
+
+
+**Thoughts:**  Still excited to start my first web dev project.
