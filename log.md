@@ -67,3 +67,13 @@
 
 
 **Thoughts:**  Kept running into small errors which was frustrating...
+
+### Day 10: September 3, 2018 
+
+
+**Today's Progress**: Finished the project "Create a Tribute Page"! 
+
+
+**Thoughts:**  Super happy with the completing the first challenge. It's not particularly pretty but it passed all the tests and for me its a good start.
+
+**Link to my work:** https://codepen.io/vanessakirch88/pen/LJWRRW
