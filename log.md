@@ -59,3 +59,11 @@
 
 
 **Thoughts:**  Still excited to start my first web dev project.
+
+### Day 9: September 2, 2018 
+
+
+**Today's Progress**: Started working on my first project (Build a Tribute Page from freeCodeCamp ). 
+
+
+**Thoughts:**  Kept running into small errors which was frustrating...
