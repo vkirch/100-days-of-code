@@ -77,3 +77,23 @@
 **Thoughts:**  Super happy with the completing the first challenge. It's not particularly pretty but it passed all the tests and for me its a good start.
 
 **Link to my work:** https://codepen.io/vanessakirch88/pen/LJWRRW
+
+### Day 11: September 4, 2018 
+
+
+**Today's Progress**: Finished the html portion of the survey form project.
+
+
+**Thoughts:**  Happy so far. 
+
+**Link to my work:** https://codepen.io/vanessakirch88/pen/xaLBRY
+
+### Day 11: September 5, 2018 
+
+
+**Today's Progress**: Just finishing up the survey form. Trying to style it better so we'll see if I can finish it tomorrow.
+
+
+**Thoughts:**  Slightly frustrated with how long it is taking me to figure out how to properly and efficiently style all the elements on my survey.  
+
+**Link to my work:** https://codepen.io/vanessakirch88/pen/xaLBRY
