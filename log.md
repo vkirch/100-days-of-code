@@ -88,7 +88,7 @@
 
 **Link to my work:** https://codepen.io/vanessakirch88/pen/xaLBRY
 
-### Day 11: September 5, 2018 
+### Day 12: September 5, 2018 
 
 
 **Today's Progress**: Just finishing up the survey form. Trying to style it better so we'll see if I can finish it tomorrow.
