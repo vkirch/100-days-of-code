@@ -108,3 +108,10 @@
 
 **Link to my work:** https://codepen.io/vanessakirch88/pen/xaLBRY
 
+### Day 14: September 5, 2018 
+
+
+**Today's Progress**:  Okay got the skeleton of my landing page to work and almost all the requirements for the project. I'm having trouble really understanding how to layout my website from the CSS side of things. 
+
+**Thoughts:** Still doing good, verging on the side of frustration. 
+
