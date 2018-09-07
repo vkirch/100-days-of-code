@@ -98,7 +98,7 @@
 
 **Link to my work:** https://codepen.io/vanessakirch88/pen/xaLBRY
 
-### Day 13: September 5, 2018 
+### Day 13: September 6, 2018 
 
 
 **Today's Progress**:  Finished the survey and now moving on towards the landing page project. I got to only style the survey a  little more but I'm still looking to come back to it at a later point. We'll see.
@@ -108,7 +108,7 @@
 
 **Link to my work:** https://codepen.io/vanessakirch88/pen/xaLBRY
 
-### Day 14: September 5, 2018 
+### Day 14: September 7, 2018 
 
 
 **Today's Progress**:  Okay got the skeleton of my landing page to work and almost all the requirements for the project. I'm having trouble really understanding how to layout my website from the CSS side of things. 
