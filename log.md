@@ -98,7 +98,7 @@
 
 **Link to my work:** https://codepen.io/vanessakirch88/pen/xaLBRY
 
-### Day 12: September 5, 2018 
+### Day 13: September 5, 2018 
 
 
 **Today's Progress**:  Finished the survey and now moving on towards the landing page project. I got to only style the survey a  little more but I'm still looking to come back to it at a later point. We'll see.
