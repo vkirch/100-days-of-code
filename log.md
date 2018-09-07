@@ -97,3 +97,14 @@
 **Thoughts:**  Slightly frustrated with how long it is taking me to figure out how to properly and efficiently style all the elements on my survey.  
 
 **Link to my work:** https://codepen.io/vanessakirch88/pen/xaLBRY
+
+### Day 12: September 5, 2018 
+
+
+**Today's Progress**:  Finished the survey and now moving on towards the landing page project. I got to only style the survey a  little more but I'm still looking to come back to it at a later point. We'll see.
+
+
+**Thoughts:** Still doing good. 
+
+**Link to my work:** https://codepen.io/vanessakirch88/pen/xaLBRY
+
