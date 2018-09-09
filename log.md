@@ -115,3 +115,9 @@
 
 **Thoughts:** Still doing good, verging on the side of frustration. 
 
+### Day 15: September 8, 2018 
+
+
+**Today's Progress**: Slowly being able to re-style my landing page. Very tedious but so far I'm happy with the progress I'm seeing.
+
+
