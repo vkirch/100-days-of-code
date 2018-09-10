@@ -120,4 +120,9 @@
 
 **Today's Progress**: Slowly being able to re-style my landing page. Very tedious but so far I'm happy with the progress I'm seeing.
 
+### Day 16: September 9, 2018 
 
+
+**Today's Progress**:   The good news is that the landing page looks decent but of course it's still not what I want it to be.... yet. I'll keep trying tomorrow :)
+
+**Thoughts:** I think I'll dedicate another day or two but after that I have to move on to the next project. 
