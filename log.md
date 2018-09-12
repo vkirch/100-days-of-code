@@ -126,3 +126,17 @@
 **Today's Progress**:   The good news is that the landing page looks decent but of course it's still not what I want it to be.... yet. I'll keep trying tomorrow :)
 
 **Thoughts:** I think I'll dedicate another day or two but after that I have to move on to the next project. 
+
+### Day 17: September 11, 2018 
+
+
+**Today's Progress**:   Finished the landing page! 
+
+**Thoughts:** Not quite what I was hoping it would look like but I needed to move on. Regardless, I'm happy with the end result. 
+
+### Day 18: September 12, 2018 
+
+
+**Today's Progress**: Now working on the technical document project. Got a good chunk done.
+
+**Thoughts:** Happy so far with the rate at which I'm getting this project done. Struggling with the layout again. It looks like I need to debug my code cause in theory everything should be working...
