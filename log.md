@@ -140,3 +140,11 @@
 **Today's Progress**: Now working on the technical document project. Got a good chunk done.
 
 **Thoughts:** Happy so far with the rate at which I'm getting this project done. Struggling with the layout again. It looks like I need to debug my code cause in theory everything should be working...
+
+
+### Day 19: September 13, 2018 
+
+
+**Today's Progress**: Had some trouble setting up a two unequal column layout as it was causing a horizontal overflow... I was also very tired thus making small mistakes but I'm almost done and I'm happy with it.
+
+**Thoughts:** Doing good. 
